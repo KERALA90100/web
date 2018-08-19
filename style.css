@@ -15,6 +15,17 @@ td{
 .skDiv{
 	width: 100%
 	border-left:3px solid #add;
+	padding:1%;
+	margin:1%;
+}
+span{
+	background:#0E4DBA;
+	color:#fff;
+	border:1px solid #882D6E;
+	box-shadow: 3px 3px #ddd;
+	margin:1%;
+	padding:1%;
+	border-radius: 5px;
 }
 .parent{
 	display:flex;
